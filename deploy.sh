@@ -10,5 +10,5 @@ set +e
 
 	make_archive
 
-	deploy_code -u eventbil -p Lx2AdFMz -d "/www/geolocal" ftp.event-biller.com http://event-biller.com/geolocal
+	deploy_code -u ocpforum -p QQJQnwdw -d "/www" -i "geolocal" ftp.ocpforum.org http://ocpforum.org
 )
